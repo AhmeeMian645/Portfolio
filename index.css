@@ -4,7 +4,23 @@ html{
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+.a{
+    width: 16%;
+    padding-left: 10px;
+    
+    background: #f0f0f0;
+}
 
+body{
+    margin: 0;
+    padding: 10px;
+    float: center;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background: #f0f0f0;
+    color: #333;
+    background-color: #a8d2e6;
+}
 .ProfileText h2 span
 {
     font-size: 0.8em;
